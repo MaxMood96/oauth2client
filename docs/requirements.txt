@@ -8,3 +8,4 @@ python-gflags
 pyyaml
 webapp2
 WebOb
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
